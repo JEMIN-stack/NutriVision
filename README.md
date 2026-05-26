@@ -35,12 +35,11 @@ NutriVision/
 
 ## 사용 기술
 
-Python
-YOLO
-OpenCV
-HTML/CSS
-Flask
-CSV 기반 음식 영양 정보 관리
+- Python
+- YOLOv8s
+- HTML/CSS
+- Flask
+- CSV 기반 음식 영양 정보 관리
 
 
 ## 담당 및 구현 내용

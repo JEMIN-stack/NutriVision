@@ -33,7 +33,7 @@ NutriVision/
 └─ Nutrivision_food_test_H.py
 ```
 
-사용 기술
+## 사용 기술
 
 Python
 YOLO
@@ -43,7 +43,7 @@ Flask
 CSV 기반 음식 영양 정보 관리
 
 
-담당 및 구현 내용
+## 담당 및 구현 내용
 
 YOLO 모델을 활용한 음식 탐지 흐름 구성
 음식 탐지 결과를 웹 화면에 표시
